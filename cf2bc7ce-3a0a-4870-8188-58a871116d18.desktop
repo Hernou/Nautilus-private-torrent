@@ -1,0 +1,19 @@
+[Desktop Entry]
+Type=Action
+Icon[fr_BE]=transmission
+Icon[fr]=transmission
+ToolbarLabel[fr_BE]=Créer un torrent privé
+ToolbarLabel[fr]=Créer un torrent privé
+Name[fr_BE]=Créer un torrent privé
+Name[fr]=Créer un torrent privé
+Profiles=profile-zero;
+
+
+Tooltip[fr_BE]=Crée un torrent sur des trackers public
+Tooltip[fr]=Crée un torrent sur des trackers public
+TargetToolbar=true
+
+[X-Action-Profile profile-zero]
+Exec=mktorrent -l 21 -p -a udp://tracker.openbittorrent.com:80 -a udp://tracker.ccc.de:80 -a udp://tracker.istole.it:80 -a udp://tracker.publicbt.com:80 -a udp://exodus.desync.com:6969 -a udp://tracker.1337x.org:80 -a http://tracker.torrentbay.to:6969 -a udp://open.demonii.com:1337 -a udp://tracker.publichd.eu:80 -a http://inferno.demonoid.ph:3389 -a udp://coppersurfer.tk:6969 -a udp://tracker.token.ro:80 -a udp://9rarbg.com:2710 %b
+Name[fr_BE]=Créer un torrent
+Name[fr]=Créer un torrent
