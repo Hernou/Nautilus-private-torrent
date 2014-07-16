@@ -9,6 +9,7 @@ there is a save for me, you can complete the public tracker list or translate it
 Dependencies :
 ------------
 nautilus-actions ( sudo apt-get install nautilus-actions )
+
 mktorrent ( http://mirror.aarnet.edu.au/debian/pool/main/m/mktorrent/ )
 
 
