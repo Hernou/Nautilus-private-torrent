@@ -1,9 +1,10 @@
 Nautilus-private-torrent
 ---------
 This add a button to right clic for easy create a torrent with the selected file
-![](https://raw.githubusercontent.com/Hernou/Nautilus-private-torrent/master/Capture%20du%202014-07-16%2014:07:25.png)
-It a save for me, you can complete or translate it if you want ;-)
 
+![](https://raw.githubusercontent.com/Hernou/Nautilus-private-torrent/master/Capture%20du%202014-07-16%2014:07:25.png)
+
+there is a save for me, you can complete the public tracker list or translate it if you want ;-)
 
 Dependencies :
 ------------
