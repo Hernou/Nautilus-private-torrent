@@ -12,7 +12,7 @@ nautilus-actions ( http://www.nautilus-actions.org )
 
 mktorrent ( http://mirror.aarnet.edu.au/debian/pool/main/m/mktorrent/ )
 ```html
-sudo apt-get install nautilus-actions mktorrent
+sudo apt-get install nautilus-actions mktorrent git
 ```
 Install :
 ------------
