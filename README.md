@@ -18,7 +18,7 @@ Install :
 ------------
 
 ```html
-git clone https://github.com/Hernou/Nautilus-private-torrent.git && mkdir /home/lio/.local/share/file-manager & mkdir /home/lio/.local/share/file-manager/actions & sleep 7 && cp -rf ~/Nautilus-private-torrent/cf2bc7ce-3a0a-4870-8188-58a871116d18.desktop ~/.local/share/file-manager/actions/cf2bc7ce-3a0a-4870-8188-58a871116d18.desktop && rm -rf ~/Nautilus-private-torrent && nautilus -q 
+git clone https://github.com/Hernou/Nautilus-private-torrent.git && mkdir /home/lio/.local/share/file-manager & mkdir -p /home/lio/.local/share/file-manager/actions & sleep 7 && cp -rf ~/Nautilus-private-torrent/cf2bc7ce-3a0a-4870-8188-58a871116d18.desktop ~/.local/share/file-manager/actions/cf2bc7ce-3a0a-4870-8188-58a871116d18.desktop && rm -rf ~/Nautilus-private-torrent && nautilus -q 
 
 
 ```
